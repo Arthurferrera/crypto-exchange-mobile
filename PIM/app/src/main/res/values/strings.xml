@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PIM</string>
+
+    <string-array name="bancos">
+        <item>Santader</item>
+        <item>Bradesco</item>
+        <item>Itaú</item>
+        <item>Caixa</item>
+
+    </string-array>
+</resources>
