@@ -54,7 +54,7 @@ Logo acima o video [apresentacao-mobile.mp4] está uma demostração do aplicati
   $ git clone https://github.com/Arthurferrera/crypto-exchange-mobile.git
 ```
 
-2. Para executar a Aplicação execute os seguintes comandos:
+2. Para executar o Aplicativo siga estes passos:
 
 ```sh
   # Primeiro instale as dependências as ferramentas, JAVA, Android Studio
