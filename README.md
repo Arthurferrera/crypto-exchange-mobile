@@ -34,7 +34,7 @@ Durante o desenvolvimento desse projeto utilizamos as seguintes tecnologias e pa
 
 ## :iphone: Mobile
 
-Logo acima o video [apresentacao-mobile.mp4] está uma demostração do aplicativo mobile, onde mostra as telas do sistema, edição de dados do perfil, extrato e listagem de ativos, compra e venda de ativos de um cliente, tudo em funcionamento prototipado, simulando a conexão com o banco de dados. 
+Logo acima o video [apresentacao-mobile.mp4] (é possível baixa-lo clicando nele e depois em 'view raw') está uma demostração do aplicativo mobile, onde mostra as telas do sistema, edição de dados do perfil, extrato e listagem de ativos, compra e venda de ativos de um cliente, tudo em funcionamento prototipado, simulando a conexão com o banco de dados. 
 
 *Obs: No primeiro momento não era necessário ter essa integração em funcionamento*
 
