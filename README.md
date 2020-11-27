@@ -46,7 +46,7 @@ Logo acima o video [apresentacao-mobile.mp4] está uma demostração do aplicati
 
   - É **necessário** possuir o **JAVA** instalado na máquina
   - Também, é **preciso** ter a IDE **Android Studio**.
-  - Váriaveis de ambiente para o android
+  - Variáveis de ambiente para o android
 
 1. Faça um clone :
 
